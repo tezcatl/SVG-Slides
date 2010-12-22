@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg xmlns:ns1="https://launchpad.net/jessyink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" style="display:inline" sodipodi:docname="Redmine_classroom.svg" inkscape:version="0.48.0 r9654" version="1.1" id="svg2" height="640" width="1024">
-  <sodipodi:namedview id="base" pagecolor="#000000" bordercolor="#f81e1e" borderopacity="1" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:zoom="0.625" inkscape:cx="489.29524" inkscape:cy="320" inkscape:document-units="px" inkscape:current-layer="title" showgrid="false" borderlayer="true" inkscape:window-width="1024" inkscape:window-height="580" inkscape:window-x="-3" inkscape:window-y="-3" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true">
+  <sodipodi:namedview id="base" pagecolor="#000000" bordercolor="#f81e1e" borderopacity="1" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:zoom="0.625" inkscape:cx="461.29524" inkscape:cy="320" inkscape:document-units="px" inkscape:current-layer="title" showgrid="false" borderlayer="true" inkscape:window-width="1024" inkscape:window-height="580" inkscape:window-x="-3" inkscape:window-y="-3" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true">
     <sodipodi:guide orientation="1,0" position="69.860445,284.95708" id="guide19504" />
     <sodipodi:guide id="guide3266" position="309.62594,537.85536" orientation="0,1" />
     <sodipodi:guide id="guide3290" position="201.09726,422.94264" orientation="0,1" />
@@ -43,7 +43,7 @@
             <dc:title>Jesús E. Franco Mtz.</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:language>Español</dc:language>
+        <dc:language>Castellano (Español)</dc:language>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>redmine</rdf:li>
